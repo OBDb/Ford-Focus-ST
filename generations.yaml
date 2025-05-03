@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (European MK1/MK2 ST170/SVT)"
+    start_year: 2002
+    end_year: 2004
+    description: "The original Focus ST, known as the ST170 in Europe and SVT Focus in North America, was Ford's first global performance variant of the Focus. Powered by a specially-tuned 2.0L Zetec engine producing 170 PS (168 HP) in European form and 170 HP in North American specification, it featured a 6-speed Getrag manual transmission. Chassis upgrades included stiffer suspension, larger brakes, and 17-inch wheels. Visual distinctions included unique front and rear bumpers, side skirts, and interior appointments including Recaro seats in some markets. This generation established the ST as a more accessible performance model positioned below the hardcore RS, offering enhanced driving dynamics and sportier styling while maintaining everyday practicality."
+
+  - name: "Second Generation (European MK2 ST)"
+    start_year: 2005
+    end_year: 2010
+    description: "The second-generation Focus ST was initially a European-only model based on the second-generation Focus platform. Powered by a turbocharged 2.5L five-cylinder Volvo-derived engine producing 225 HP and 236 lb-ft of torque, it offered significantly enhanced performance over the previous ST170. Available in three-door, five-door, and estate (wagon) body styles, it featured sportier suspension tuning, larger brakes, and a unique bodykit. The distinctive engine note became a hallmark of this generation. The interior included Recaro sports seats, a three-spoke leather steering wheel, and additional gauges. This generation established the ST as a serious contender in the hot hatch segment, offering an appealing blend of performance, practicality, and distinctive character."
+
+  - name: "Third Generation (Global)"
+    start_year: 2012
+    end_year: 2018
+    description: "The third-generation Focus ST became a global model as part of Ford's 'One Ford' strategy, available in North America, Europe, and other markets. Powered by a 2.0L EcoBoost turbocharged four-cylinder engine producing 252 HP and 270 lb-ft of torque, it was offered in both hatchback and estate (wagon) body styles in Europe, but only as a hatchback in North America. Performance features included torque vectoring control, a sport-tuned suspension, and variable-ratio steering. Visually distinguished by aggressive body styling, 18-inch wheels, and a center-exit exhaust, it also featured Recaro seats and ST-specific interior trim. A diesel option with a 2.0L TDCi engine producing 185 HP was added for European markets in 2014. This generation successfully balanced everyday usability with engaging performance, establishing the ST as Ford's global hot hatch."
+
+  - name: "Fourth Generation"
+    start_year: 2019
+    end_year: null
+    description: "The current Focus ST is based on the fourth-generation Focus platform, featuring a 2.3L EcoBoost turbocharged four-cylinder engine producing 280 HP and 310 lb-ft of torque in petrol form. For the first time, the ST offers a choice between a 6-speed manual and a 7-speed automatic transmission. A diesel option continues in European markets with a 2.0L EcoBlue engine producing 190 HP. Available in five-door hatchback and estate body styles, it features an electronic limited-slip differential, continuously controlled damping, and selectable drive modes. Visually distinguished by unique bumpers, a rear spoiler, and 19-inch wheels, the interior includes heavily bolstered Recaro seats, a flat-bottom steering wheel, and ST-specific digital displays. Despite Ford's discontinuation of most car models in North America, the fourth-generation ST remains a core performance model in European and other markets, offering a sophisticated driving experience with increased technology while maintaining the engaging character that defines the ST brand."
