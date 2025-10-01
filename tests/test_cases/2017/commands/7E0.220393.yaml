@@ -1,11 +1,14 @@
 command_id: 7E0.220393
 test_cases:
 - expected_values:
-    FORD_AC_P: 134.88511
-  response: 7E80562039301D1
+    FORD_AC_P: 116.32027
+  response: '7E8056203930191'
 - expected_values:
-    FORD_AC_P: 142.71714
-  response: 7E80562039301EC
+    FORD_AC_P: 145.90797
+  response: 7E80562039301F7
+- expected_values:
+    FORD_AC_P: 151.12933
+  response: '7E8056203930209'
 - expected_values:
     FORD_AC_P: 300.22814
   response: 7E805620393040B

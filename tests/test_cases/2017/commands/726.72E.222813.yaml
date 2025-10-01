@@ -4,26 +4,5 @@ test_cases:
     FORD_TP_FL: 30.3
   response: 72E05622813025E
 - expected_values:
-    FORD_TP_FL: 33.2
-  response: '72E056228130298'
-- expected_values:
-    FORD_TP_FL: 33.45
-  response: 72E05622813029D
-- expected_values:
-    FORD_TP_FL: 33.6
-  response: 72E0562281302A0
-- expected_values:
-    FORD_TP_FL: 33.7
-  response: 72E0562281302A2
-- expected_values:
-    FORD_TP_FL: 33.95
-  response: 72E0562281302A7
-- expected_values:
-    FORD_TP_FL: 34.2
-  response: 72E0562281302AC
-- expected_values:
-    FORD_TP_FL: 34.35
-  response: 72E0562281302AF
-- expected_values:
     FORD_TP_FL: 34.45
   response: 72E0562281302B1
