@@ -1,0 +1,11 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    FORD_ODO_V2: 136722
+  response: 72E0662DD01021612
+- expected_values:
+    FORD_ODO_V2: 136723
+  response: 72E0662DD01021613
+- expected_values:
+    FORD_ODO_V2: 136724
+  response: 72E0662DD01021614
