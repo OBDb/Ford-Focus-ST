@@ -1,26 +1,26 @@
 command_id: 726.72E.22DD01
 test_cases:
 - expected_values:
-    FORD_ODO_V2: 340175
+    FORD_ODO_726: 340175
   response: 72E0662DD010530CF
 - expected_values:
-    FORD_ODO_V2: 340183
+    FORD_ODO_726: 340183
   response: 72E0662DD010530D7
 - expected_values:
-    FORD_ODO_V2: 340184
+    FORD_ODO_726: 340184
   response: 72E0662DD010530D8
 - expected_values:
-    FORD_ODO_V2: 340185
+    FORD_ODO_726: 340185
   response: 72E0662DD010530D9
 - expected_values:
-    FORD_ODO_V2: 340195
+    FORD_ODO_726: 340195
   response: 72E0662DD010530E3
 - expected_values:
-    FORD_ODO_V2: 340196
+    FORD_ODO_726: 340196
   response: 72E0662DD010530E4
 - expected_values:
-    FORD_ODO_V2: 340206
+    FORD_ODO_726: 340206
   response: 72E0662DD010530EE
 - expected_values:
-    FORD_ODO_V2: 340547
+    FORD_ODO_726: 340547
   response: 72E0662DD01053243
