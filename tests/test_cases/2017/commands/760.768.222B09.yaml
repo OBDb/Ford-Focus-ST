@@ -1,0 +1,26 @@
+command_id: 760.768.222B09
+test_cases:
+- expected_values:
+    FORD_RL_VSS: 96
+  response: 76804622B0960
+- expected_values:
+    FORD_RL_VSS: 100
+  response: 76804622B0964
+- expected_values:
+    FORD_RL_VSS: 104
+  response: 76804622B0968
+- expected_values:
+    FORD_RL_VSS: 107
+  response: 76804622B096B
+- expected_values:
+    FORD_RL_VSS: 109
+  response: 76804622B096D
+- expected_values:
+    FORD_RL_VSS: 111
+  response: 76804622B096F
+- expected_values:
+    FORD_RL_VSS: 113
+  response: 76804622B0971
+- expected_values:
+    FORD_RL_VSS: 121
+  response: 76804622B0979
