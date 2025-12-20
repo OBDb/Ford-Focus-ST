@@ -13,5 +13,5 @@ test_cases:
     FORD_ODO_726: 208634
   response: 72E0662DD01032EFA
 - expected_values:
-    FORD_ODO_726: 217253
-  response: 72E0662DD010350A5
+    FORD_ODO_726: 217345
+  response: 72E0662DD01035101
