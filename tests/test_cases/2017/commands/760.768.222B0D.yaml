@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     FORD_BRK_FL_P: 0
   response: 76805622B0D0001
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0012
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0014
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0023
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0039
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D003A
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D003C
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D003E
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0041
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0046
