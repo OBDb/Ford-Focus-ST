@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F421
+test_cases:
+- expected_values:
+    FORD_MIL_DIST: 7754
+  response: 7E80562F4211E4A
+- expected_values:
+    FORD_MIL_DIST: 7755
+  response: 7E80562F4211E4B
+- expected_values:
+    FORD_MIL_DIST: 7757
+  response: 7E80562F4211E4D
+- expected_values:
+    FORD_MIL_DIST: 7759
+  response: 7E80562F4211E4F
+- expected_values:
+    FORD_MIL_DIST: 7761
+  response: 7E80562F4211E51

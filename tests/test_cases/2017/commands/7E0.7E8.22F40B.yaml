@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    FORD_MAP: 4.35117
+  response: 7E80462F40B1E
+- expected_values:
+    FORD_MAP: 7.25195
+  response: 7E80462F40B32
+- expected_values:
+    FORD_MAP: 8.26722
+  response: 7E80462F40B39
+- expected_values:
+    FORD_MAP: 8.41226
+  response: 7E80462F40B3A
+- expected_values:
+    FORD_MAP: 8.5573
+  response: 7E80462F40B3B
+- expected_values:
+    FORD_MAP: 11.02296
+  response: 7E80462F40B4C
+- expected_values:
+    FORD_MAP: 11.60312
+  response: 7E80462F40B50
+- expected_values:
+    FORD_MAP: 11.89319
+  response: 7E80462F40B52
+- expected_values:
+    FORD_MAP: 12.03823
+  response: 7E80462F40B53
+- expected_values:
+    FORD_MAP: 16.3894
+  response: 7E80462F40B71

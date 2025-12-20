@@ -5,10 +5,10 @@ test_cases:
     FORD_THROTTLE_POS_ACT: 12.60986
   response: 7E80562093C0409
 - expected_values:
-    FORD_ETC_ANG_ACT: 3.17383
-    FORD_THROTTLE_POS_ACT: 19.83643
-  response: 7E80562093C0659
-- expected_values:
     FORD_ETC_ANG_ACT: 3.48633
     FORD_THROTTLE_POS_ACT: 21.78955
   response: 7E80562093C06F9
+- expected_values:
+    FORD_ETC_ANG_ACT: 17.88086
+    FORD_THROTTLE_POS_ACT: 100
+  response: 7E80562093C23C3
