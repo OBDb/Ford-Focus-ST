@@ -10,8 +10,17 @@ test_cases:
     FORD_LPFP_DES: 84.825
   response: 7E80462041FC3
 - expected_values:
+    FORD_LPFP_DES: 86.13
+  response: 7E80462041FC6
+- expected_values:
     FORD_LPFP_DES: 87
   response: 7E80462041FC8
+- expected_values:
+    FORD_LPFP_DES: 87.435
+  response: 7E80462041FC9
+- expected_values:
+    FORD_LPFP_DES: 87.87
+  response: 7E80462041FCA
 - expected_values:
     FORD_LPFP_DES: 88.305
   response: 7E80462041FCB
