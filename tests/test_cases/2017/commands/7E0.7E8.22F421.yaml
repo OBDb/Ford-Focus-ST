@@ -4,8 +4,8 @@ test_cases:
     FORD_MIL_DIST: 7754
   response: 7E80562F4211E4A
 - expected_values:
-    FORD_MIL_DIST: 8055
-  response: 7E80562F4211F77
-- expected_values:
     FORD_MIL_DIST: 8179
   response: 7E80562F4211FF3
+- expected_values:
+    FORD_MIL_DIST: 8248
+  response: 7E80562F4212038
