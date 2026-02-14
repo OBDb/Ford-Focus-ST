@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     FORD_FLI: 4.70588
   response: 7E80462F42F0C
+- expected_values:
+    FORD_FLI: 18.03922
+  response: 7E80462F42F2E
+- expected_values:
+    FORD_FLI: 18.43137
+  response: 7E80462F42F2F
