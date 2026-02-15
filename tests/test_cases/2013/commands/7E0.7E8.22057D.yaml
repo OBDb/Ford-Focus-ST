@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     FORD_AAT_ALT: 10
   response: 7E80462057D64
+- expected_values:
+    FORD_AAT_ALT: 13
+  response: 7E80462057D6A
+- expected_values:
+    FORD_AAT_ALT: 14
+  response: 7E80462057D6C

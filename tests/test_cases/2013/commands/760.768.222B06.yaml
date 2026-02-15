@@ -10,5 +10,11 @@ test_cases:
     FORD_FR_VSS: 27
   response: 76804622B061B
 - expected_values:
+    FORD_FR_VSS: 45
+  response: 76804622B062D
+- expected_values:
+    FORD_FR_VSS: 58
+  response: 76804622B063A
+- expected_values:
     FORD_FR_VSS: 67
   response: 76804622B0643

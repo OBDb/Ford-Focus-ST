@@ -7,5 +7,8 @@ test_cases:
     FORD_BARO_V: 3.87097
   response: 7E80562035A0318
 - expected_values:
+    FORD_BARO_V: 3.87586
+  response: 7E80562035A0319
+- expected_values:
     FORD_BARO_V: 3.90029
   response: 7E80562035A031E
