@@ -13,5 +13,11 @@ test_cases:
     FORD_RL_VSS: 30
   response: 76804622B091E
 - expected_values:
+    FORD_RL_VSS: 44
+  response: 76804622B092C
+- expected_values:
+    FORD_RL_VSS: 58
+  response: 76804622B093A
+- expected_values:
     FORD_RL_VSS: 64
   response: 76804622B0940
