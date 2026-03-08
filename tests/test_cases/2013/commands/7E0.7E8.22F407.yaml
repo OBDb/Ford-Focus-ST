@@ -49,3 +49,6 @@ test_cases:
     7E8027E00
     7E8027E00
     7E8026C03
+- expected_values:
+    FORD_LTFT: 16.40625
+  response: 7E80462F40795
