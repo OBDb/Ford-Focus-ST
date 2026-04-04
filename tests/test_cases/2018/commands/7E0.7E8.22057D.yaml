@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22057D
+test_cases:
+- expected_values:
+    FORD_AAT_ALT: 38
+  response: 7E80462057D9C
+- expected_values:
+    FORD_AAT_ALT: 42
+  response: 7E80462057DA4
+- expected_values:
+    FORD_AAT_ALT: 43
+  response: 7E80462057DA6
