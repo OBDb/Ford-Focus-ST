@@ -3,6 +3,22 @@ test_cases:
 - expected_values:
     FORD_EVAP_V: 5
     FORD_[ECU] EVAP PRES SENSOR V: 5
+  response: 7E80562038E0872
+- expected_values:
+    FORD_EVAP_V: 5
+    FORD_[ECU] EVAP PRES SENSOR V: 5
+  response: 7E80562038E0980
+- expected_values:
+    FORD_EVAP_V: 5
+    FORD_[ECU] EVAP PRES SENSOR V: 5
+  response: 7E80562038E09EE
+- expected_values:
+    FORD_EVAP_V: 5
+    FORD_[ECU] EVAP PRES SENSOR V: 5
+  response: 7E80562038E09F3
+- expected_values:
+    FORD_EVAP_V: 5
+    FORD_[ECU] EVAP PRES SENSOR V: 5
   response: 7E80562038E0A70
 - expected_values:
     FORD_EVAP_V: 5
