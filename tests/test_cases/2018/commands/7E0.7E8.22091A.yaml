@@ -1,20 +1,14 @@
 command_id: 7E0.7E8.22091A
 test_cases:
 - expected_values:
-    FORD_ETC_ANG_DES: 2.13281
-  response: 7E80562091A0444
+    FORD_ETC_ANG_DES: 1.59375
+  response: 7E80562091A0330
 - expected_values:
-    FORD_ETC_ANG_DES: 2.28906
-  response: 7E80562091A0494
+    FORD_ETC_ANG_DES: 1.91992
+  response: 7E80562091A03D7
 - expected_values:
-    FORD_ETC_ANG_DES: 2.35742
-  response: 7E80562091A04B7
-- expected_values:
-    FORD_ETC_ANG_DES: 6.79492
-  response: 7E80562091A0D97
-- expected_values:
-    FORD_ETC_ANG_DES: 6.91992
-  response: 7E80562091A0DD7
+    FORD_ETC_ANG_DES: 8
+  response: 7E80562091A1000
 - expected_values:
     FORD_ETC_ANG_DES: 13
   response: 7E80562091A1A00
