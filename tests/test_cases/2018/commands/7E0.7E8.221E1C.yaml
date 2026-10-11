@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    FST_TOT_7E0: 15.5
+  response: 7E805621E1C00F8
+- expected_values:
+    FST_TOT_7E0: 30.375
+  response: 7E805621E1C01E6

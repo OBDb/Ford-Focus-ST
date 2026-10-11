@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.22038B
 test_cases:
 - expected_values:
-    FORD_PCM_MISF_ACCEL_CYL4_NORM: 0
+    FST_PCM_MISF_ACCEL_CYL4_NORM: 0
   response: 7E80462038B00
 - expected_values:
-    FORD_PCM_MISF_ACCEL_CYL4_NORM: 0.01562
+    FST_PCM_MISF_ACCEL_CYL4_NORM: 0.01562
   response: |-
     7E80462038B01
     7E8300000
@@ -17,5 +17,5 @@ test_cases:
     7E8027E00
     7E8026C03
 - expected_values:
-    FORD_PCM_MISF_ACCEL_CYL4_NORM: -0.03125
+    FST_PCM_MISF_ACCEL_CYL4_NORM: -0.03125
   response: 7E80462038BFE

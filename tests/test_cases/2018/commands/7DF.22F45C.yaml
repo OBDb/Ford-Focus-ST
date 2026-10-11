@@ -1,4 +1,8 @@
 command_id: 7DF.22F45C
 test_cases:
-- expected_values: {}
+- expected_values:
+    FST_EOP: 60
+  response: 7E80462F45C3C
+- expected_values:
+    FST_EOP: 129
   response: 7E80462F45C81
